@@ -4,6 +4,7 @@ import EP2Managetext from "./page/EP2Managetext";
 import EP3HeightAndWidth from "./page/EP3HeightAndWidth";
 import EP4MarginAndPadding from "./page/EP4MarginAndPadding";
 import EP5Border from "./page/EP5Border";
+import EP6BoxShadox from "./page/EP6BoxShadox";
 
 function App() {
   return (
@@ -12,7 +13,8 @@ function App() {
       {/* <EP2Managetext /> */}
       {/* <EP3HeightAndWidth /> */}
       {/* <EP4MarginAndPadding /> */}
-      <EP5Border />
+      {/* <EP5Border /> */}
+      <EP6BoxShadox />
     </div>
   );
 }
