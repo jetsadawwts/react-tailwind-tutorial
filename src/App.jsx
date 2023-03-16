@@ -7,6 +7,7 @@ import EP5Border from "./page/EP5Border";
 import EP6BoxShadox from "./page/EP6BoxShadox";
 import EP7PseudoSelector from "./page/EP7PseudoSelector";
 import EP8ContainerAndBreakpoint from "./page/EP8ContainerAndBreakpoint";
+import EP9Flexbox from "./page/EP9Flexbox";
 
 function App() {
   return (
@@ -18,7 +19,8 @@ function App() {
       {/* <EP5Border /> */}
       {/* <EP6BoxShadox /> */}
       {/* <EP7PseudoSelector /> */}
-      <EP8ContainerAndBreakpoint />
+      {/* <EP8ContainerAndBreakpoint /> */}
+      <EP9Flexbox />
     </div>
   );
 }
