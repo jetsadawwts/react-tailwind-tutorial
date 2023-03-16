@@ -6,6 +6,7 @@ import EP4MarginAndPadding from "./page/EP4MarginAndPadding";
 import EP5Border from "./page/EP5Border";
 import EP6BoxShadox from "./page/EP6BoxShadox";
 import EP7PseudoSelector from "./page/EP7PseudoSelector";
+import EP8ContainerAndBreakpoint from "./page/EP8ContainerAndBreakpoint";
 
 function App() {
   return (
@@ -16,7 +17,8 @@ function App() {
       {/* <EP4MarginAndPadding /> */}
       {/* <EP5Border /> */}
       {/* <EP6BoxShadox /> */}
-      <EP7PseudoSelector />
+      {/* <EP7PseudoSelector /> */}
+      <EP8ContainerAndBreakpoint />
     </div>
   );
 }
