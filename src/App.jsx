@@ -1,4 +1,5 @@
 import { useState } from "react";
+import EP10GridLayout from "./page/EP10GridLayout";
 import EP1Background from "./page/EP1Background";
 import EP2Managetext from "./page/EP2Managetext";
 import EP3HeightAndWidth from "./page/EP3HeightAndWidth";
@@ -20,7 +21,8 @@ function App() {
       {/* <EP6BoxShadox /> */}
       {/* <EP7PseudoSelector /> */}
       {/* <EP8ContainerAndBreakpoint /> */}
-      <EP9Flexbox />
+      {/* <EP9Flexbox /> */}
+      <EP10GridLayout />
     </div>
   );
 }
